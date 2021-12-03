@@ -16,3 +16,6 @@ als EIN/AUSgänge sind die Globalen Variablen definiert.
 	// Taster_Zu    	S2: BOOL;
 	// Taster_Aus   	S3: BOOL := TRUE;
 
+
+Video der Steuerung
+https://www.youtube.com/watch?v=_owyrw4OeZ8
